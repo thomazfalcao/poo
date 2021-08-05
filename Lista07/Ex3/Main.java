@@ -1,4 +1,4 @@
-public class Q3_Main {
+public class Main {
     public static void main(String[] args) throws ClienteInexistenteException, RepositorioException, ClienteJaExistenteException, DadoInvalidoException {
         Cliente c1 = new Cliente();
         c1.setNome("Lucas");
