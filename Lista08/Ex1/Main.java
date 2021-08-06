@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Q4_Main {
+public class Main {
     public static void main(String[] args) {
         System.out.print("Digite uma frase: ");
         Scanner input = new Scanner(System.in);
